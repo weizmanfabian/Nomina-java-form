@@ -1,0 +1,5 @@
+SOCIEDADES WEIZMAN
+smtp.gmail.com
+587
+wefacahe@gmail.com
+1234
